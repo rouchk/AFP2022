@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ScrollViewReactiveHeader",
+        "repositoryURL": "https://github.com/swiftui-library/scrollview-reactive-header.git",
+        "state": {
+          "branch": null,
+          "revision": "60a293fb34c7e654dbe6c96c29ab0544627c2edd",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
